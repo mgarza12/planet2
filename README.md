@@ -1,2 +1,2 @@
-# planet2
-planet landing project
+# Planet 2 (examples)
+Examples from Software Carpentry Workshop course at UCL (17-18 Feb. 2016)
